@@ -3,7 +3,7 @@ how to start inference server:
 docker compose up
 docker compose down 
 
-compose file: 
+compose file: docker-compose.yml
 image name: model-inference-server
 
 how to curl command: 
