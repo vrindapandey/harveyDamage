@@ -1,6 +1,6 @@
 
-how to start inference server:
-docker compose up
+how to start inference server:/n
+docker compose up\n
 docker compose down 
 
 compose file: docker-compose.yml
